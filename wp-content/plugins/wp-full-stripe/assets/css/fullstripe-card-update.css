@@ -1,0 +1,50 @@
+/* @deprecated */
+#wpfs-cards-and-subscriptions-card-element {
+    border: 1px solid;
+    border-color: #bbbbbb;
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 18px;
+}
+
+#wpfs-cards-and-subscriptions-subscriptions-table th {
+    font-weight: normal;
+}
+
+.wpfs-update-card-row {
+    margin-bottom: 10px;
+}
+
+.wpfs-alert {
+    padding: 8px 35px 8px 14px;
+    margin-bottom: 20px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    border: 1px solid;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.wpfs-alert-error {
+    background-color: #f2dede;
+    border-color: #eed3d7;
+    color: #b94a48;
+}
+
+.wpfs-alert-success {
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #468847;
+}
+
+#wpfs-subscription-update-logout {
+    float: right;
+}
+
+#wpfs-card-update-headline {
+    display: inline-block;
+    padding-top: 0px;
+}
+
+#wpfs-cards-and-subscriptions-card-form {
+    clear: both;
+}
